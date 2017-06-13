@@ -1,4 +1,4 @@
-# Inline-Read_More-Read_Less-button
+# Inline Read More-Read Less Plugin jQuery
 Adds Inline Read More and  Read Less button in jquery.
 
 
@@ -8,23 +8,23 @@ Shortens the text within 'element' and add a 'more' link.
 
     $(element).shorten();
 
-Add a link with text 'read more' while shortening the content of element.
+Add a link with text 'Read More' while shortening the content of element.
 
 	$(element).shorten({
-	moreText: 'read more'
+	moreText: 'Read More'
 	});
 
-Change the link text to 'read more' and 'read less' overriding default value 'more' and 'less'.
+Change the link text to 'Show More' and 'Show Less' overriding default value 'Read More' and 'Read Less'.
 
 	$(element).shorten({
-	moreText: 'read more',
-	lessText: 'read less'
+	moreText: 'Show More',
+	lessText: 'Show Less'
 	});
 
-Override default display 100 characters and hide text above 50 characters.
+Override default display 400 characters and hide text above 150 characters.
 
 	$(element).shorten({
-	showChars: 50,
+	showChars: 150,
 	});
 
 
