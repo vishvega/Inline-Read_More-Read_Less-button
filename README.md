@@ -51,8 +51,11 @@ Parameters
 `onLess` 				| Callback function to trigger when "ReadLess" is clicked
 
 
-- Liceced under GNU General Public License v3.0.
+- Liceced under GNU General Public License v3.0. ![AUR](https://img.shields.io/aur/license/yaourt.svg) ![CRAN](https://img.shields.io/cran/l/devtools.svg)
 
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/vishvega/Inline-Read_More-Read_Less-button/)
+
+
+
