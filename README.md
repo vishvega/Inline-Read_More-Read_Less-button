@@ -2,7 +2,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](#)  [![forthebadge](https://forthebadge.com/images/badges/does-not-contain-treenuts.svg)](#)
 
-![dev-asshole](https://img.shields.io/badge/developer-asshole-%230b50a7.svg)
+![dev-asshole](https://img.shields.io/badge/developer-asshole-%230b50a7.svg) ![Shippable](https://img.shields.io/shippable/5444c5ecb904a4b21567b0ff.svg) ![Shippable](https://img.shields.io/badge/Developer-Single-%23a6a903.svg) 
 
 
 Adds Inline Read More and  Read Less button in jquery.
