@@ -1,6 +1,6 @@
 # Inline Read More-Read Less Plugin jQuery
 
-[![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](#)  [![forthebadge](https://forthebadge.com/images/badges/does-not-contain-treenuts.svg)](#)
+[![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](https://github.com/vishvega/Inline-Read_More-Read_Less-button/)  [![forthebadge](https://forthebadge.com/images/badges/does-not-contain-treenuts.svg)](https://github.com/vishvega/Inline-Read_More-Read_Less-button/)
 
 ![dev-asshole](https://img.shields.io/badge/developer-asshole-%230b50a7.svg) ![Shippable](https://img.shields.io/shippable/5444c5ecb904a4b21567b0ff.svg) ![Shippable](https://img.shields.io/badge/Developer-Single-%23a6a903.svg) 
 
@@ -55,4 +55,4 @@ Parameters
 
 
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/vishvega/Inline-Read_More-Read_Less-button/)
