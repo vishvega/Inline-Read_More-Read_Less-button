@@ -52,3 +52,7 @@ Parameters
 
 
 - Liceced under GNU General Public License v3.0.
+
+
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
